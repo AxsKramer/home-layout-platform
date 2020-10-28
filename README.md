@@ -1,2 +1,2 @@
-# home-layout-platform
-Simple layout that simulates a platform.
+# Home Layout Platform
+Simple layout that simulates a platform of virtual school.
